@@ -87,13 +87,6 @@ This repository consolidates end-to-end NLP workflows: text ingestion and cleani
 
 ---
 
-## 🛠️ Tech Notes (lightweight)
-
-* Favor **repeatable scripts/notebooks** and clearly separated steps.
-* Keep **config/secrets** out of version control; use `.env` + `.env.example`.
-* Track **random seeds** and feature parameters (n-grams, min\_df, etc.) for comparability.
-
----
 
 ## 📚 References (add your preferred links)
 
