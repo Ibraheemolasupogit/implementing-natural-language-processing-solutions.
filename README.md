@@ -8,7 +8,7 @@
 
 ## 🚀 Overview
 
-This repository consolidates end-to-end NLP workflows: text ingestion and cleaning, linguistic annotation (POS/NER), classical ML pipelines for classification, semantics and sentiment analysis, topic modeling (LDA/NMF), word embeddings (train & pretrained), and deep-learning text generation/chatbots. It’s organized to help you jump to what you need while keeping an opinionated, production-aware mindset (“NLP Ops”).
+This repository consolidates end-to-end NLP workflows: text ingestion and cleaning, linguistic annotation (POS/NER), classical ML pipelines for classification, semantics and sentiment analysis, topic modeling (LDA/NMF), word embeddings (train & pretrained), and deep-learning text generation/chatbots. (“NLP Ops”).
 
 ---
 
