@@ -1,6 +1,6 @@
 # 🧠 NLP Implementation & Ops
 
-**Tokenization · POS/NER · Text Classification · Semantics & Sentiment · Topic Modeling · Word Embeddings · Chatbots (DL)**
+**Tokenization · POS/NER · Text Classification · Semantics & Sentiment · Topic Modeling · Word Embeddings · Chatbots (DL)** 
 
 > Practical, production-minded Natural Language Processing (NLP) implementations in Python, from classic preprocessing to deep-learning chatbots, with clean patterns you can reuse anywhere.
 
